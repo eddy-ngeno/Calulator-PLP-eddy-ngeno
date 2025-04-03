@@ -1,4 +1,4 @@
-# Calculator.py
+# Calculator
 
 ## Overview
 A simple Python program for basic math operations like addition, subtraction, multiplication, and division.
